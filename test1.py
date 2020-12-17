@@ -1,1 +1,1 @@
-print('Thank you krishna for everything')
+print('Thank you krishna for everythings')
